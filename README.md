@@ -1,1 +1,1 @@
-# Homing-Pigeon-Plugin-JPush
+# Homing-Pigeon-Plugin-Template
