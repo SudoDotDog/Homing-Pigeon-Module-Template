@@ -1,6 +1,6 @@
 /**
  * @author WMXPY
- * @namespace Loading
+ * @namespace Module_Template
  * @description Placeholder
  * @override Unit Test
  */
